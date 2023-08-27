@@ -11,6 +11,7 @@ to the caterers directly from this app.
 -> User can see his past orders.
 -> Can get party plot details.
 
+
 Tool and Technology: Python Django, javascript, html, CSS and database used is SQLITE3.
 
 # Make Virtual Environment first and then install pillow, django, etc in it.
