@@ -18,3 +18,6 @@ Tool and Technology: Python Django, javascript, html, CSS and database used is S
 # After then activate virtual Environment then first do migrations and then migrate.
 # After then create superuser.
 # Then run project.
+
+
+
