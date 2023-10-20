@@ -23,5 +23,5 @@ Tool and Technology: Python Django, javascript, html, CSS and database used is S
 
 # This is the video of this project.
 
-https://github.com/sarthak-15052001/E-Catering/assets/135957525/4f4dd805-b20c-4653-8449-64711bd5b5a1
+
 
